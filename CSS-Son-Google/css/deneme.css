@@ -1,0 +1,125 @@
+.image {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em;
+    top: 120px;
+    left: 35px;
+}
+.ust {
+    position: relative;
+    left: 890px;
+    top: -60px;
+    padding: auto;
+
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 110px;
+    padding:15px;
+    background-color: #dadce0;
+}
+.h4a {
+    position: absolute;
+    top: -6px;
+}
+.button {
+    position: relative;
+    top: 0px;
+    background-color: #1a73e8;
+    border: 12px solid transparent;
+    border-radius: 7px;
+    left: 650px;
+}
+.gmail{
+    color: black;
+    position: relative;
+    left: 1330px;
+    top: 18px;
+
+}
+.gorseller{
+    position: relative;
+    left: 1400px;
+    top: 0px;
+
+}
+.uygulamalar{
+    position: relative;
+    left: 1500px;
+    top: -21px;
+
+}
+.ortasatır {
+    background-color: white;
+    border: 5px solid transparent;
+    border-radius: 55px;
+}
+.hakkında{
+    position: relative;
+    top: 39px;
+    left: 20px;
+
+}
+.reklam{
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
+.işletme{
+    position: relative;
+    top: 1px;
+    left: 250px;
+}
+.aramanasılçalışır{
+    position: relative;
+    top: -18px;
+    left: 350px;
+}
+.gizlilik{
+    position: relative;
+    left: 1300px;
+    top: -38px;
+}
+.artlar{
+    position: relative;
+    top: -57px;
+    left: 1400px;
+}
+
+.ayarlar{
+    position: relative;
+    top: -75px;
+    left: 1500px;
+}
+
+.buttonn{
+    position: relative;
+    top: 80px;
+    left: 300px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.form-wrapper { 
+    position: relative;
+    background:white;
+    left: 270px;
+    border-radius: 30px;
+    top: 70px;
+    height: 40px;
+    width: 600px;}
