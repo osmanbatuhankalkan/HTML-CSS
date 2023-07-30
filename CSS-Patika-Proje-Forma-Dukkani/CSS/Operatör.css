@@ -1,0 +1,26 @@
+fs-orta{
+    list-style-position: inside
+}
+.renkKırmızı{
+    color: red;
+}
+.renkMavi{
+    color: royalblue;
+}
+h1 {
+    color: red; font-family:Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 25px;
+}
+li{
+    font-size: 28px;
+}
+ol{ 
+    font-size: 20px; font-family: serif; list-style-position: inside; font-style: initial;
+    color: ivory;
+}
+body {background-color: rgb(14, 14, 14);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
